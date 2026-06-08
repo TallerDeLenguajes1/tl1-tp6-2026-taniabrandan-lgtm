@@ -1,0 +1,15 @@
+C:\Users\brand\OneDrive\Desktop\tl1-tp6-2026-taniabrandan-lgtm\bin\Debug\net10.0\tl1-tp6-2026-taniabrandan-lgtm.exe
+C:\Users\brand\OneDrive\Desktop\tl1-tp6-2026-taniabrandan-lgtm\bin\Debug\net10.0\tl1-tp6-2026-taniabrandan-lgtm.deps.json
+C:\Users\brand\OneDrive\Desktop\tl1-tp6-2026-taniabrandan-lgtm\bin\Debug\net10.0\tl1-tp6-2026-taniabrandan-lgtm.runtimeconfig.json
+C:\Users\brand\OneDrive\Desktop\tl1-tp6-2026-taniabrandan-lgtm\bin\Debug\net10.0\tl1-tp6-2026-taniabrandan-lgtm.dll
+C:\Users\brand\OneDrive\Desktop\tl1-tp6-2026-taniabrandan-lgtm\bin\Debug\net10.0\tl1-tp6-2026-taniabrandan-lgtm.pdb
+C:\Users\brand\OneDrive\Desktop\tl1-tp6-2026-taniabrandan-lgtm\obj\Debug\net10.0\tl1-tp6-2026-taniabrandan-lgtm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\OneDrive\Desktop\tl1-tp6-2026-taniabrandan-lgtm\obj\Debug\net10.0\tl1-tp6-2026-taniabrandan-lgtm.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Desktop\tl1-tp6-2026-taniabrandan-lgtm\obj\Debug\net10.0\tl1-tp6-2026-taniabrandan-lgtm.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\tl1-tp6-2026-taniabrandan-lgtm\obj\Debug\net10.0\tl1-tp6-2026-taniabrandan-lgtm.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\tl1-tp6-2026-taniabrandan-lgtm\obj\Debug\net10.0\tl1-tp6-2026-taniabrandan-lgtm.sourcelink.json
+C:\Users\brand\OneDrive\Desktop\tl1-tp6-2026-taniabrandan-lgtm\obj\Debug\net10.0\tl1-tp6-2026-taniabrandan-lgtm.dll
+C:\Users\brand\OneDrive\Desktop\tl1-tp6-2026-taniabrandan-lgtm\obj\Debug\net10.0\refint\tl1-tp6-2026-taniabrandan-lgtm.dll
+C:\Users\brand\OneDrive\Desktop\tl1-tp6-2026-taniabrandan-lgtm\obj\Debug\net10.0\tl1-tp6-2026-taniabrandan-lgtm.pdb
+C:\Users\brand\OneDrive\Desktop\tl1-tp6-2026-taniabrandan-lgtm\obj\Debug\net10.0\tl1-tp6-2026-taniabrandan-lgtm.genruntimeconfig.cache
+C:\Users\brand\OneDrive\Desktop\tl1-tp6-2026-taniabrandan-lgtm\obj\Debug\net10.0\ref\tl1-tp6-2026-taniabrandan-lgtm.dll
