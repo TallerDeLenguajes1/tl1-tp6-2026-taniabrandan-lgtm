@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tl1-tp6-2026-taniabrandan-lgtm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2004ba470ff16d2789e7e370b6c2ec6643d683a7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+052700be4eb5073c4777ade20bf4c3a38149482b")]
 [assembly: System.Reflection.AssemblyProductAttribute("tl1-tp6-2026-taniabrandan-lgtm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tl1-tp6-2026-taniabrandan-lgtm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
